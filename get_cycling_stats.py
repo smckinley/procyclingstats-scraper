@@ -1,3 +1,7 @@
+# ProCyclingStats.com scraper
+# author: Sky McKinley
+# modified: 2/8/2015
+
 import urllib2
 import re
 
